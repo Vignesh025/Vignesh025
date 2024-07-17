@@ -9,7 +9,7 @@
           <td align="left" width="300">
 <p align="center">
             <a href="https://discordapp.com/users/Neymarjr#7680">
-              <img width="30%" src="images/" />
+              <img width="30%" src="Images/Discord.png" />
             </a>
 </p>
           </td>
