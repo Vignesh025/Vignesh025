@@ -20,10 +20,22 @@
             </a>
 </p>
           </td>    
+	  <td align="left" width="300">
+<p align="center">
+            <a href="https://app.daily.dev/vignesh_j">
+              <img width="30%"src="Images/dailydev.jpg" />
+            </a>
+</p>
+          </td>   
         </tr>
       </table>
     </td>
   </tr>
 </table>
+<!--START_SECTION:activity-->
 
-<a align="center" href="https://app.daily.dev/vignesh_j"><img align="center" src="https://api.daily.dev/devcards/v2/1J9b22wH2zAdDBhIo7jHs.png?type=wide&r=f2s" width="652" alt="Vignesh J's Dev Card"/></a>
+
+
+
+
+<!--END_SECTION:activity-->
