@@ -33,11 +33,13 @@
   </tr>
 </table>
 
+## 📈 Stats
 <p>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vignesh025&show_icons=true&theme=tokyonight" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vignesh025&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count=7" />
+<img width="48%" height="48%" src="https://github-readme-stats.vercel.app/api?username=Vignesh025&show_icons=true&theme=tokyonight" />
+<img width="48%" height="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vignesh025&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count=4" />
 </p>
 
+## My GitHub Activity ⚡
 <!--START_SECTION:activity-->
 
 
