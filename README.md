@@ -26,4 +26,4 @@
   </tr>
 </table>
 
-<a href="https://app.daily.dev/vignesh_j"><img align="center" src="https://api.daily.dev/devcards/v2/1J9b22wH2zAdDBhIo7jHs.png?type=wide&r=f2s" width="652" alt="Vignesh J's Dev Card"/></a>
+<a align="center" href="https://app.daily.dev/vignesh_j"><img align="center" src="https://api.daily.dev/devcards/v2/1J9b22wH2zAdDBhIo7jHs.png?type=wide&r=f2s" width="652" alt="Vignesh J's Dev Card"/></a>
