@@ -6,7 +6,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vignesh025&theme=algolia" alt="Vignesh025" /></p>
 
 
-## 🙋‍♂️My Profiles
+## 🙋‍♂️Connect With Me
 <a href="https://discordapp.com/users/Neymarjr#7680">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
