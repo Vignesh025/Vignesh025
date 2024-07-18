@@ -34,9 +34,8 @@
 </table>
 
 ## 📈 Stats
-<p>
-![Vignesh's GitHub stats](https://github-readme-stats-vignesh025.vercel.app/api?username=Vignesh025&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-vignesh025.vercel.app/api/top-langs/?username=Vignesh025&layout=compact)
+<img width="96%" alt="Vignesh025's GitHub Stats" src="https://github-readme-stats-vignesh025.vercel.app/api?username=Vignesh025&show_icons=true&theme=radical" />
+<img width="96%" alt="Vignesh025's GitHub Language Stats" src="https://github-readme-stats-vignesh025.vercel.app/api/top-langs/?username=Vignesh025&layout=compact"/>
 
 ## My GitHub Activity ⚡
 <!--START_SECTION:activity-->
