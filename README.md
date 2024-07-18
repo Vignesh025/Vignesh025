@@ -35,9 +35,8 @@
 
 ## 📈 Stats
 <p>
-<img width="48%" height="48%" src="https://github-readme-stats.vercel.app/api?username=Vignesh025&show_icons=true&theme=tokyonight" />
-<img width="48%" height="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vignesh025&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count=4" />
-</p>
+![Vignesh's GitHub stats](https://github-readme-stats-vignesh025.vercel.app/api?username=Vignesh025&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-vignesh025.vercel.app/api/top-langs/?username=Vignesh025&layout=compact)
 
 ## My GitHub Activity ⚡
 <!--START_SECTION:activity-->
