@@ -25,7 +25,9 @@
 <a href="https://leetcode.com/u/Vignesh025/" target="_blank">
 <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
 </a>
-
+<a href="https://dev.to/vignesh_j">
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+</a>
 
 ## 🛠️Languages and Tools:
 
