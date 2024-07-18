@@ -7,22 +7,22 @@
 
 
 ## 🙋‍♂️Connect With Me
-<a href="https://discordapp.com/users/Neymarjr#7680">
+<a href="https://discordapp.com/users/Neymarjr#7680"target="_blank">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/vignesh-j-85a1b121a/">
+<a href="https://www.linkedin.com/in/vignesh-j-85a1b121a/"target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://app.daily.dev/vignesh_j">
+<a href="https://app.daily.dev/vignesh_j"target="_blank">
 <img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white"/>
 </a>
-<a href="mailto:vigneshjayakumar9221@gmail.com">
+<a href="mailto:vigneshjayakumar9221@gmail.com"target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.duolingo.com/profile/VigneshJ25">
+<a href="https://www.duolingo.com/profile/VigneshJ25"target="_blank">
 <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/u/Vignesh025/">
+<a href="https://leetcode.com/u/Vignesh025/"target="_blank">
 <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
 </a>
 
