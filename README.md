@@ -16,7 +16,7 @@
 <a href="https://app.daily.dev/vignesh_j">
 <img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white"/>
 </a>
-<a href="vigneshjayakumar9221@gmail.com">
+<a href="mailto:vigneshjayakumar9221@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.duolingo.com/profile/VigneshJ25">
