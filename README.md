@@ -1,9 +1,11 @@
 ![Header](./Images/github-header-image.png)
+
 <div align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes">
   </a>
 </div>
+
 ## 🔥 Streak Stats
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vignesh025&theme=algolia" alt="Vignesh025" /></p>
