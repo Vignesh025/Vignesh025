@@ -1,5 +1,4 @@
 ![Header](./Images/github-header-image.png)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 ## 🔥 Streak Stats
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vignesh025&theme=algolia" alt="Vignesh025" /></p>
