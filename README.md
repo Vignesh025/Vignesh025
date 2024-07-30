@@ -1,6 +1,5 @@
-<h1 align="center">Hi , I'm Vignesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-
+![Header](./Images/github-header-image.png)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 ## 🔥 Streak Stats
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vignesh025&theme=algolia" alt="Vignesh025" /></p>
@@ -58,13 +57,3 @@
   <br/>
 
 </details>
-
-<!--
-## ⚡My GitHub Activity
-<!--START_SECTION:activity-->
-
-
-
-
-
-<!--END_SECTION:activity-->
