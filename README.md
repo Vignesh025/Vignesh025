@@ -2,7 +2,7 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vignesh025&theme=algolia" alt="Vignesh025" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vignesh025&theme=dark" alt="Vignesh025" /></p>
 
 
 ## 🙋‍♂️Connect With Me
@@ -40,10 +40,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <img align="center" src="https://github-readme-stats-vignesh025.vercel.app/api?username=Vignesh025&show_icons=true&theme=algolia" alt="Vignesh025's GitHub Stats" height="192px"/></a>
+    <img align="center" src="https://github-readme-stats-vignesh025.vercel.app/api?username=Vignesh025&show_icons=true&theme=gruvbox" alt="Vignesh025's GitHub Stats" height="192px"/></a>
   </p>
   <p  align="center">
-    <img src="https://github-readme-stats-vignesh025.vercel.app/api/top-langs/?username=Vignesh025&layout=compact&theme=algolia" alt="Vignesh025's GitHub Language Stats" height="192px"/>
+    <img src="https://github-readme-stats-vignesh025.vercel.app/api/top-langs/?username=Vignesh025&layout=compact&theme=gruvbox" alt="Vignesh025's GitHub Language Stats" height="192px"/>
   </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -53,7 +53,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-	<img alt="Vignesh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Vignesh025&custom_title=Vignesh%20%27s%20Contribution%20Graph&theme=react-dark" /></a>
+	<img alt="Vignesh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Vignesh025&custom_title=Vignesh%20%27s%20Contribution%20Graph&theme=gruvbox" /></a>
   <br/>
 
 </details>
