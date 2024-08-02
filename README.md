@@ -1,6 +1,10 @@
-![Header](./Images/github-header-image.png)
+# 💻 Vignesh
 
-### 🔥 Streak Stats
+**`Developer`**
+
+I'm Vignesh, a tech enthusiast with a passion for learning and exploring new technologies. I enjoy contributing to open-source projects and consistently engage with various projects, whether they are at a beginner or intermediate level. My focus is on enhancing these projects by adding new features and improving details.
+
+---
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vignesh025&theme=dark" alt="Vignesh025" /></p>
 
