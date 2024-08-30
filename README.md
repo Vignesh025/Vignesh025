@@ -88,14 +88,3 @@ I'm Vignesh, a tech enthusiast passionate about learning and exploring new techn
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/Vignesh025/CampX/issues/5) in [Vignesh025/CampX](https://github.com/Vignesh025/CampX)
-2. 🔒 Closed issue [#7](https://github.com/Vignesh025/CampX/issues/7) in [Vignesh025/CampX](https://github.com/Vignesh025/CampX)
-3. 🔒 Closed issue [#1](https://github.com/Vignesh025/CampX/issues/1) in [Vignesh025/CampX](https://github.com/Vignesh025/CampX)
-4. 🔒 Closed issue [#6](https://github.com/Vignesh025/CampX/issues/6) in [Vignesh025/CampX](https://github.com/Vignesh025/CampX)
-5. 🔒 Closed issue [#4](https://github.com/Vignesh025/CampX/issues/4) in [Vignesh025/CampX](https://github.com/Vignesh025/CampX)
-6. 🔒 Closed issue [#3](https://github.com/Vignesh025/CampX/issues/3) in [Vignesh025/CampX](https://github.com/Vignesh025/CampX)
-7. 🔒 Closed issue [#2](https://github.com/Vignesh025/CampX/issues/2) in [Vignesh025/CampX](https://github.com/Vignesh025/CampX)
-8. 🔓 Reopened issue [#7](https://github.com/VigneshDevHub/CampX/issues/7) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-9. 🔓 Reopened issue [#6](https://github.com/VigneshDevHub/CampX/issues/6) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-10. 🔓 Reopened issue [#5](https://github.com/VigneshDevHub/CampX/issues/5) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-<!--END_SECTION:activity-->
