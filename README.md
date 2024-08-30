@@ -73,6 +73,7 @@ I'm Vignesh, a tech enthusiast passionate about learning and exploring new techn
   </p>
 </details>
 
+<!--
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
@@ -80,6 +81,7 @@ I'm Vignesh, a tech enthusiast passionate about learning and exploring new techn
   <br/>
 
 </details>
+-->
 
 ---
 
