@@ -81,4 +81,8 @@ I'm Vignesh, a tech enthusiast passionate about learning and exploring new techn
 
 </details>
 
+---
+
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
