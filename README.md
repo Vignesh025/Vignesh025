@@ -6,9 +6,9 @@ I'm Vignesh, a tech enthusiast passionate about learning and exploring new techn
 
 ---
 
+<!--
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vignesh025&theme=react" alt="Vignesh025" /></p>
-
----
+-->
 
 <h2 align="center"> 🙋‍♂️Connect With Me </h2>
 <br/>
