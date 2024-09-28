@@ -49,6 +49,8 @@ I'm Vignesh, a tech enthusiast passionate about learning and exploring new techn
 <img  alt="Java" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img  alt="Java" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
 <img  alt="Java" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img  alt="Java" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img  alt="Java" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
 <img  alt="Java" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img  alt="Java" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </div>
