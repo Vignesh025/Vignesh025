@@ -90,9 +90,9 @@ I'm Vignesh, a tech enthusiast passionate about learning and exploring new techn
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/VigneshDevHub/CampX/issues/43#issuecomment-2388406304) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-2. ❗ Opened issue [#494](https://github.com/Classiq/classiq-library/issues/494) in [Classiq/classiq-library](https://github.com/Classiq/classiq-library)
-3. 🗣 Commented on [#43](https://github.com/VigneshDevHub/CampX/issues/43#issuecomment-2388376571) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-4. ❗ Opened issue [#288](https://github.com/gitroomhq/postiz-app/issues/288) in [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)
-5. ❗ Opened issue [#1018](https://github.com/llmware-ai/llmware/issues/1018) in [llmware-ai/llmware](https://github.com/llmware-ai/llmware)
+1. 🗣 Commented on [#672](https://github.com/CopilotKit/CopilotKit/issues/672#issuecomment-2388648885) in [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
+2. 🗣 Commented on [#43](https://github.com/VigneshDevHub/CampX/issues/43#issuecomment-2388406304) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+3. ❗ Opened issue [#494](https://github.com/Classiq/classiq-library/issues/494) in [Classiq/classiq-library](https://github.com/Classiq/classiq-library)
+4. 🗣 Commented on [#43](https://github.com/VigneshDevHub/CampX/issues/43#issuecomment-2388376571) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+5. ❗ Opened issue [#288](https://github.com/gitroomhq/postiz-app/issues/288) in [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)
 <!--END_SECTION:activity-->
