@@ -90,9 +90,9 @@ I'm Vignesh, a tech enthusiast passionate about learning and exploring new techn
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/VigneshDevHub/CampX/issues/43#issuecomment-2388145971) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-2. 🗣 Commented on [#7](https://github.com/VigneshDevHub/CampX/issues/7#issuecomment-2388132237) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-3. 🗣 Commented on [#46](https://github.com/VigneshDevHub/CampX/issues/46#issuecomment-2388123502) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-4. 🗣 Commented on [#11](https://github.com/VigneshDevHub/CampX/issues/11#issuecomment-2387736336) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-5. 🗣 Commented on [#11](https://github.com/VigneshDevHub/CampX/issues/11#issuecomment-2387689587) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+1. 🗣 Commented on [#43](https://github.com/VigneshDevHub/CampX/issues/43#issuecomment-2388376571) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+2. ❗ Opened issue [#288](https://github.com/gitroomhq/postiz-app/issues/288) in [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)
+3. ❗ Opened issue [#1018](https://github.com/llmware-ai/llmware/issues/1018) in [llmware-ai/llmware](https://github.com/llmware-ai/llmware)
+4. 🎉 Merged PR [#48](https://github.com/VigneshDevHub/CampX/pull/48) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+5. 💪 Opened PR [#48](https://github.com/VigneshDevHub/CampX/pull/48) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
 <!--END_SECTION:activity-->
