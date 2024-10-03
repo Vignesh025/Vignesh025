@@ -90,9 +90,9 @@ I'm Vignesh, a tech enthusiast passionate about learning and exploring new techn
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#494](https://github.com/Classiq/classiq-library/issues/494#issuecomment-2391718878) in [Classiq/classiq-library](https://github.com/Classiq/classiq-library)
-2. 🗣 Commented on [#352](https://github.com/Bashamega/WebDevTools/pull/352#issuecomment-2391110590) in [Bashamega/WebDevTools](https://github.com/Bashamega/WebDevTools)
-3. 🗣 Commented on [#352](https://github.com/Bashamega/WebDevTools/pull/352#issuecomment-2391070608) in [Bashamega/WebDevTools](https://github.com/Bashamega/WebDevTools)
-4. 💪 Opened PR [#352](https://github.com/Bashamega/WebDevTools/pull/352) in [Bashamega/WebDevTools](https://github.com/Bashamega/WebDevTools)
-5. 🔒 Closed issue [#46](https://github.com/VigneshDevHub/CampX/issues/46) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+1. 🗣 Commented on [#32](https://github.com/VigneshDevHub/CampX/issues/32#issuecomment-2391864297) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+2. 🗣 Commented on [#494](https://github.com/Classiq/classiq-library/issues/494#issuecomment-2391718878) in [Classiq/classiq-library](https://github.com/Classiq/classiq-library)
+3. 🗣 Commented on [#352](https://github.com/Bashamega/WebDevTools/pull/352#issuecomment-2391110590) in [Bashamega/WebDevTools](https://github.com/Bashamega/WebDevTools)
+4. 🗣 Commented on [#352](https://github.com/Bashamega/WebDevTools/pull/352#issuecomment-2391070608) in [Bashamega/WebDevTools](https://github.com/Bashamega/WebDevTools)
+5. 💪 Opened PR [#352](https://github.com/Bashamega/WebDevTools/pull/352) in [Bashamega/WebDevTools](https://github.com/Bashamega/WebDevTools)
 <!--END_SECTION:activity-->
