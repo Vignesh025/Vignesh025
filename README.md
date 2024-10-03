@@ -90,9 +90,9 @@ I'm Vignesh, a tech enthusiast passionate about learning and exploring new techn
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/VigneshDevHub/CampX/issues/57#issuecomment-2391956546) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-2. 🗣 Commented on [#56](https://github.com/VigneshDevHub/CampX/issues/56#issuecomment-2391954998) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-3. 🔒 Closed issue [#56](https://github.com/VigneshDevHub/CampX/issues/56) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-4. 🔒 Closed issue [#15](https://github.com/VigneshDevHub/CampX/issues/15) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-5. 🔒 Closed issue [#16](https://github.com/VigneshDevHub/CampX/issues/16) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+1. 🗣 Commented on [#32](https://github.com/VigneshDevHub/CampX/issues/32#issuecomment-2392002275) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+2. 🗣 Commented on [#1018](https://github.com/llmware-ai/llmware/issues/1018#issuecomment-2392000338) in [llmware-ai/llmware](https://github.com/llmware-ai/llmware)
+3. 🗣 Commented on [#57](https://github.com/VigneshDevHub/CampX/issues/57#issuecomment-2391990894) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+4. 🔒 Closed issue [#35](https://github.com/VigneshDevHub/CampX/issues/35) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+5. 🗣 Commented on [#57](https://github.com/VigneshDevHub/CampX/issues/57#issuecomment-2391956546) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
 <!--END_SECTION:activity-->
