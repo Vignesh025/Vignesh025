@@ -90,9 +90,9 @@ I'm Vignesh, a tech enthusiast passionate about learning and exploring new techn
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#352](https://github.com/Bashamega/WebDevTools/pull/352#issuecomment-2391070608) in [Bashamega/WebDevTools](https://github.com/Bashamega/WebDevTools)
-2. 💪 Opened PR [#352](https://github.com/Bashamega/WebDevTools/pull/352) in [Bashamega/WebDevTools](https://github.com/Bashamega/WebDevTools)
-3. 🔒 Closed issue [#46](https://github.com/VigneshDevHub/CampX/issues/46) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-4. 🗣 Commented on [#46](https://github.com/VigneshDevHub/CampX/issues/46#issuecomment-2391034458) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-5. 🎉 Merged PR [#53](https://github.com/VigneshDevHub/CampX/pull/53) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+1. 🗣 Commented on [#352](https://github.com/Bashamega/WebDevTools/pull/352#issuecomment-2391110590) in [Bashamega/WebDevTools](https://github.com/Bashamega/WebDevTools)
+2. 🗣 Commented on [#352](https://github.com/Bashamega/WebDevTools/pull/352#issuecomment-2391070608) in [Bashamega/WebDevTools](https://github.com/Bashamega/WebDevTools)
+3. 💪 Opened PR [#352](https://github.com/Bashamega/WebDevTools/pull/352) in [Bashamega/WebDevTools](https://github.com/Bashamega/WebDevTools)
+4. 🔒 Closed issue [#46](https://github.com/VigneshDevHub/CampX/issues/46) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+5. 🗣 Commented on [#46](https://github.com/VigneshDevHub/CampX/issues/46#issuecomment-2391034458) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
 <!--END_SECTION:activity-->
