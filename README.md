@@ -90,9 +90,9 @@ I'm Vignesh, a tech enthusiast passionate about learning and exploring new techn
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/VigneshDevHub/CampX/issues/32#issuecomment-2392929263) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-2. 🗣 Commented on [#59](https://github.com/VigneshDevHub/CampX/issues/59#issuecomment-2392926621) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-3. 🗣 Commented on [#32](https://github.com/VigneshDevHub/CampX/issues/32#issuecomment-2392828129) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-4. 🗣 Commented on [#59](https://github.com/VigneshDevHub/CampX/issues/59#issuecomment-2392806206) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-5. 🗣 Commented on [#52](https://github.com/VigneshDevHub/CampX/issues/52#issuecomment-2392006098) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+1. 🗣 Commented on [#103](https://github.com/fedirz/faster-whisper-server/pull/103#issuecomment-2392982817) in [fedirz/faster-whisper-server](https://github.com/fedirz/faster-whisper-server)
+2. 💪 Opened PR [#103](https://github.com/fedirz/faster-whisper-server/pull/103) in [fedirz/faster-whisper-server](https://github.com/fedirz/faster-whisper-server)
+3. 🗣 Commented on [#2515](https://github.com/tolgee/tolgee-platform/pull/2515#issuecomment-2392955092) in [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform)
+4. 💪 Opened PR [#2515](https://github.com/tolgee/tolgee-platform/pull/2515) in [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform)
+5. 🗣 Commented on [#32](https://github.com/VigneshDevHub/CampX/issues/32#issuecomment-2392929263) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
 <!--END_SECTION:activity-->
