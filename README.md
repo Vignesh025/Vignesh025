@@ -90,9 +90,9 @@ I'm Vignesh, a tech enthusiast passionate about learning and exploring new techn
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#66](https://github.com/VigneshDevHub/CampX/pull/66#issuecomment-2393355012) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-2. 🗣 Commented on [#64](https://github.com/VigneshDevHub/CampX/issues/64#issuecomment-2393027557) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-3. 🔒 Closed issue [#63](https://github.com/VigneshDevHub/CampX/issues/63) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-4. 🗣 Commented on [#103](https://github.com/fedirz/faster-whisper-server/pull/103#issuecomment-2392982817) in [fedirz/faster-whisper-server](https://github.com/fedirz/faster-whisper-server)
-5. 💪 Opened PR [#103](https://github.com/fedirz/faster-whisper-server/pull/103) in [fedirz/faster-whisper-server](https://github.com/fedirz/faster-whisper-server)
+1. ❌ Closed PR [#66](https://github.com/VigneshDevHub/CampX/pull/66) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+2. 🎉 Merged PR [#69](https://github.com/VigneshDevHub/CampX/pull/69) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+3. 💪 Opened PR [#69](https://github.com/VigneshDevHub/CampX/pull/69) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+4. 🗣 Commented on [#67](https://github.com/VigneshDevHub/CampX/pull/67#issuecomment-2393428767) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+5. 🎉 Merged PR [#67](https://github.com/VigneshDevHub/CampX/pull/67) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
 <!--END_SECTION:activity-->
