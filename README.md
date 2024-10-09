@@ -87,6 +87,9 @@ I'm Vignesh, a tech enthusiast passionate about learning and exploring new techn
 
 ---
 
+[![An image of @vignesh025's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vignesh025)](https://holopin.io/@vignesh025)
+
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
