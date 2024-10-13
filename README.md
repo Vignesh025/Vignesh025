@@ -93,9 +93,9 @@ I'm Vignesh, a tech enthusiast passionate about learning and exploring new techn
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#162](https://github.com/VigneshDevHub/CampX/issues/162#issuecomment-2408834115) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-2. 🔒 Closed issue [#162](https://github.com/VigneshDevHub/CampX/issues/162) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-3. 🗣 Commented on [#157](https://github.com/VigneshDevHub/CampX/issues/157#issuecomment-2408833724) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-4. 🗣 Commented on [#126](https://github.com/VigneshDevHub/CampX/issues/126#issuecomment-2408833210) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-5. 🗣 Commented on [#160](https://github.com/VigneshDevHub/CampX/issues/160#issuecomment-2408639497) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+1. 💪 Opened PR [#2586](https://github.com/tolgee/tolgee-platform/pull/2586) in [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform)
+2. 🗣 Commented on [#162](https://github.com/VigneshDevHub/CampX/issues/162#issuecomment-2408834115) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+3. 🔒 Closed issue [#162](https://github.com/VigneshDevHub/CampX/issues/162) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+4. 🗣 Commented on [#157](https://github.com/VigneshDevHub/CampX/issues/157#issuecomment-2408833724) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+5. 🗣 Commented on [#126](https://github.com/VigneshDevHub/CampX/issues/126#issuecomment-2408833210) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
 <!--END_SECTION:activity-->
