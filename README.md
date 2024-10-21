@@ -93,9 +93,9 @@ I'm Vignesh, a tech enthusiast passionate about learning and exploring new techn
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/VigneshDevHub/CampX/issues/68#issuecomment-2425569034) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-2. 🗣 Commented on [#59](https://github.com/VigneshDevHub/CampX/issues/59#issuecomment-2425568594) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-3. 🗣 Commented on [#13](https://github.com/VigneshDevHub/CampX/issues/13#issuecomment-2425566844) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-4. 🔒 Closed issue [#17](https://github.com/VigneshDevHub/CampX/issues/17) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-5. 🔒 Closed issue [#7](https://github.com/VigneshDevHub/CampX/issues/7) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+1. 🗣 Commented on [#217](https://github.com/VigneshDevHub/CampX/pull/217#issuecomment-2425589602) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+2. 🗣 Commented on [#68](https://github.com/VigneshDevHub/CampX/issues/68#issuecomment-2425569034) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+3. 🗣 Commented on [#59](https://github.com/VigneshDevHub/CampX/issues/59#issuecomment-2425568594) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+4. 🗣 Commented on [#13](https://github.com/VigneshDevHub/CampX/issues/13#issuecomment-2425566844) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+5. 🔒 Closed issue [#17](https://github.com/VigneshDevHub/CampX/issues/17) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
 <!--END_SECTION:activity-->
