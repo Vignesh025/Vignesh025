@@ -86,9 +86,9 @@ I'm Vignesh, a tech enthusiast passionate about learning and exploring new techn
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#73](https://github.com/VigneshDevHub/CampX/issues/73#issuecomment-2435875963) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-2. 🔒 Closed issue [#73](https://github.com/VigneshDevHub/CampX/issues/73) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-3. 🗣 Commented on [#286](https://github.com/VigneshDevHub/CampX/issues/286#issuecomment-2435872980) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-4. 🔒 Closed issue [#286](https://github.com/VigneshDevHub/CampX/issues/286) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-5. 💪 Opened PR [#2149](https://github.com/GSSoC24/Postman-Challenge/pull/2149) in [GSSoC24/Postman-Challenge](https://github.com/GSSoC24/Postman-Challenge)
+1. ❗ Opened issue [#383](https://github.com/recodehive/Support/issues/383) in [recodehive/Support](https://github.com/recodehive/Support)
+2. 🗣 Commented on [#73](https://github.com/VigneshDevHub/CampX/issues/73#issuecomment-2435875963) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+3. 🔒 Closed issue [#73](https://github.com/VigneshDevHub/CampX/issues/73) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+4. 🗣 Commented on [#286](https://github.com/VigneshDevHub/CampX/issues/286#issuecomment-2435872980) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+5. 🔒 Closed issue [#286](https://github.com/VigneshDevHub/CampX/issues/286) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
 <!--END_SECTION:activity-->
