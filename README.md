@@ -41,18 +41,20 @@ I'm Vignesh, a tech enthusiast passionate about learning and exploring new techn
 <h2 align="center">🛠️Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
-<img  alt="Java" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img  alt="Java" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img  alt="Java" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img  alt="Java" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-<img  alt="Java" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img  alt="Java" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img  alt="Java" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-<img  alt="Java" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-<img  alt="Java" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img  alt="Java" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
-<img  alt="Java" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img  alt="Java" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img  alt="C" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img  alt="HTML" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img  alt="CSS" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img  alt="Markdown" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
+<img  alt="JavaScript" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+<img  alt="Bootstrap" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<img  alt="Nodejs" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img  alt="Expressjs" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+<img  alt="MongoDB" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img  alt="React" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img  alt="MaterialUI" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
+<img  alt="VScode" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img  alt="Git" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
+<img  alt="Github" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </div>
 <br/>
 
