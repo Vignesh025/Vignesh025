@@ -61,21 +61,12 @@ I'm Vignesh, a tech enthusiast passionate about learning and exploring new techn
 
 ---
 
-<h2 align="center">📊 Github Stats (Expand to View)</h2> 
-<br/>
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <img align="center" src="https://github-readme-stats-vignesh025.vercel.app/api?username=Vignesh025&show_icons=true&rank_icon=github&theme=react" alt="Vignesh025's GitHub Stats" height="192px"/></a>
-  </p>
-  <p  align="center">
+<h2 align="center">📊 Github Stats</h2> 
+    <div align="center">
+    <img src="https://github-readme-stats-vignesh025.vercel.app/api?username=Vignesh025&show_icons=true&rank_icon=github&theme=react" alt="Vignesh025's GitHub Stats" height="192px"/></a>
     <img src="https://github-readme-stats-vignesh025.vercel.app/api/top-langs/?username=Vignesh025&layout=compact&theme=react" alt="Vignesh025's GitHub Language Stats" height="192px"/>
-  </p>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
+    </div>
+    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <!--
 <details>
@@ -88,7 +79,7 @@ I'm Vignesh, a tech enthusiast passionate about learning and exploring new techn
 -->
 
 ---
-
+### Hacktoberfest2024
 [![An image of @vignesh025's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vignesh025)](https://holopin.io/@vignesh025)
 
 
