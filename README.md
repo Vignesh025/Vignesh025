@@ -36,11 +36,11 @@ I'm Vignesh, a tech enthusiast passionate about learning and exploring new techn
 </a>
 </div>
 
----
+
 
 <h2 align="center">🛠️Languages-Frameworks-Tools</h2>
 <br/>
-<div align="center">
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img  alt="C" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img  alt="HTML" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img  alt="CSS" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -59,15 +59,11 @@ I'm Vignesh, a tech enthusiast passionate about learning and exploring new techn
 <br/>
 
 
----
-
 <h2 align="center">📊 Github Stats</h2> 
     <div align="center">
     <img src="https://github-readme-stats-vignesh025.vercel.app/api?username=Vignesh025&show_icons=true&rank_icon=github&theme=react" alt="Vignesh025's GitHub Stats" height="192px"/></a>
     <img src="https://github-readme-stats-vignesh025.vercel.app/api/top-langs/?username=Vignesh025&layout=compact&theme=react" alt="Vignesh025's GitHub Language Stats" height="192px"/>
     </div>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 <!--
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
@@ -78,7 +74,17 @@ I'm Vignesh, a tech enthusiast passionate about learning and exploring new techn
 </details>
 -->
 
----
+## GSSoC 2024 Extd Badges
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+</div>
+
+
 ### Hacktoberfest2024
 [![An image of @vignesh025's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vignesh025)](https://holopin.io/@vignesh025)
 
