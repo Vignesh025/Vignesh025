@@ -92,9 +92,9 @@ I'm Vignesh, a tech enthusiast passionate about learning and exploring new techn
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#108](https://github.com/GSSoC24/Hack-Web3Conf/pull/108) in [GSSoC24/Hack-Web3Conf](https://github.com/GSSoC24/Hack-Web3Conf)
-2. 🔒 Closed issue [#350](https://github.com/VigneshDevHub/CampX/issues/350) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-3. 🗣 Commented on [#362](https://github.com/VigneshDevHub/CampX/issues/362#issuecomment-2453469522) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-4. 🔒 Closed issue [#362](https://github.com/VigneshDevHub/CampX/issues/362) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-5. 🗣 Commented on [#361](https://github.com/VigneshDevHub/CampX/issues/361#issuecomment-2453469206) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+1. 🗣 Commented on [#365](https://github.com/VigneshDevHub/CampX/issues/365#issuecomment-2454876466) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+2. 🗣 Commented on [#363](https://github.com/VigneshDevHub/CampX/pull/363#issuecomment-2454873080) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+3. 💪 Opened PR [#108](https://github.com/GSSoC24/Hack-Web3Conf/pull/108) in [GSSoC24/Hack-Web3Conf](https://github.com/GSSoC24/Hack-Web3Conf)
+4. 🔒 Closed issue [#350](https://github.com/VigneshDevHub/CampX/issues/350) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+5. 🗣 Commented on [#362](https://github.com/VigneshDevHub/CampX/issues/362#issuecomment-2453469522) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
 <!--END_SECTION:activity-->
