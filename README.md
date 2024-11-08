@@ -93,9 +93,9 @@ I'm Vignesh, a tech enthusiast passionate about learning and exploring new techn
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#396](https://github.com/VigneshDevHub/CampX/pull/396) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-2. 💪 Opened PR [#396](https://github.com/VigneshDevHub/CampX/pull/396) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-3. 🔒 Closed issue [#373](https://github.com/VigneshDevHub/CampX/issues/373) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-4. 🗣 Commented on [#391](https://github.com/VigneshDevHub/CampX/pull/391#issuecomment-2462683334) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-5. 🎉 Merged PR [#391](https://github.com/VigneshDevHub/CampX/pull/391) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+1. 🗣 Commented on [#359](https://github.com/VigneshDevHub/CampX/pull/359#issuecomment-2464005019) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+2. 🎉 Merged PR [#359](https://github.com/VigneshDevHub/CampX/pull/359) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+3. 🎉 Merged PR [#396](https://github.com/VigneshDevHub/CampX/pull/396) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+4. 💪 Opened PR [#396](https://github.com/VigneshDevHub/CampX/pull/396) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+5. 🔒 Closed issue [#373](https://github.com/VigneshDevHub/CampX/issues/373) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
 <!--END_SECTION:activity-->
