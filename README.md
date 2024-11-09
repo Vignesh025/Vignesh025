@@ -93,9 +93,9 @@ I'm Vignesh, a tech enthusiast passionate about learning and exploring new techn
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#212](https://github.com/VigneshDevHub/CampX/issues/212) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-2. ❌ Closed PR [#345](https://github.com/VigneshDevHub/CampX/pull/345) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-3. ❌ Closed PR [#343](https://github.com/VigneshDevHub/CampX/pull/343) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-4. 🔓 Reopened issue [#341](https://github.com/VigneshDevHub/CampX/issues/341) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-5. 🗣 Commented on [#357](https://github.com/VigneshDevHub/CampX/issues/357#issuecomment-2464729128) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+1. 🗣 Commented on [#401](https://github.com/VigneshDevHub/CampX/pull/401#issuecomment-2466158734) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+2. 🔒 Closed issue [#212](https://github.com/VigneshDevHub/CampX/issues/212) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+3. ❌ Closed PR [#345](https://github.com/VigneshDevHub/CampX/pull/345) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+4. ❌ Closed PR [#343](https://github.com/VigneshDevHub/CampX/pull/343) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+5. 🔓 Reopened issue [#341](https://github.com/VigneshDevHub/CampX/issues/341) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
 <!--END_SECTION:activity-->
