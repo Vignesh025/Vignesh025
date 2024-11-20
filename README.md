@@ -1,8 +1,7 @@
-# 💻 Vignesh
+![Untitled](https://github.com/user-attachments/assets/06673fcb-50fa-4833-930e-4343f4a29319)
 
-**`Developer`**
 
-I'm Vignesh, a tech enthusiast passionate about learning and exploring new technologies. I enjoy contributing to open-source projects and consistently engage with various projects, whether they are at a beginner or intermediate level. I focus on enhancing these projects by adding new features and improving details.
+Hi! I'm Vignesh, a tech enthusiast passionate about learning and exploring new technologies. I enjoy contributing to open-source projects and consistently engage with various projects, whether they are at a beginner or intermediate level. I focus on enhancing these projects by adding new features and improving details.
 
 ---
 
