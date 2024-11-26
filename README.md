@@ -1,5 +1,7 @@
-![Untitled](https://github.com/user-attachments/assets/06673fcb-50fa-4833-930e-4343f4a29319)
-
+![Banner](https://github.com/user-attachments/assets/06673fcb-50fa-4833-930e-4343f4a29319)
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FVignesh025%2FVignesh025&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+  <br><br>
 
 Hi! I'm Vignesh, a tech enthusiast passionate about learning and exploring new technologies. I enjoy contributing to open-source projects and consistently engage with various projects, whether they are at a beginner or intermediate level. I focus on enhancing these projects by adding new features and improving details.
 
