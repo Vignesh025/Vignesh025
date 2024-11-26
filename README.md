@@ -47,6 +47,12 @@ Hi! I'm Vignesh, a tech enthusiast passionate about learning and exploring new t
 <a href="https://medium.com/@vigneshj1">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
+<a href="https://oss.fyi/Vignesh025">
+<img src="https://img.shields.io/badge/OpenSauced-F06837?style=for-the-badge&logo=open-sauced&logoColor=white" />
+</a>
+<a href="https://peerlist.io/vignesh_j">
+<img src="https://img.shields.io/badge/Peerlist-0A0209?style=for-the-badge&logo=peerlist&logoColor=white" />
+</a>
 </div>
 
 
