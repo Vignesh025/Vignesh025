@@ -14,45 +14,19 @@ Hi! I'm Vignesh, a tech enthusiast passionate about learning and exploring new t
 <h2 align="center"> 🙋‍♂️Connect With Me </h2>
 <br/>
 <div align="center">
-<a href="https://discordapp.com/users/Neymarjr#7680">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord profile"/>
-</a>
-<a href="https://www.linkedin.com/in/vignesh-j-85a1b121a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://app.daily.dev/vignesh_j">
-<img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white"/>
-</a>
-<a href="mailto:vigneshjayakumar9221@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.duolingo.com/profile/VigneshJ25">
-<img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/Vignesh025/">
-<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-</a>
-<a href="https://dev.to/vignesh_j">
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
-</a>
-<a href="https://x.com/vigneshtwt_">
-<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
-</a>
-<a href="https://hashnode.com/@Vignesh025">
-<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
-</a>
-<a href="https://vigneshj1.substack.com/">
-<img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719"/>
-</a>
-<a href="https://medium.com/@vigneshj1">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-<a href="https://oss.fyi/Vignesh025">
-<img src="https://img.shields.io/badge/OpenSauced-F06837?style=for-the-badge&logo=open-sauced&logoColor=white" />
-</a>
-<a href="https://peerlist.io/vignesh_j">
-<img src="https://img.shields.io/badge/Peerlist-0A0209?style=for-the-badge&logo=peerlist&logoColor=white" />
-</a>
+<a href="https://discordapp.com/users/Neymarjr#7680"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord profile"/></a>
+<a href="https://www.linkedin.com/in/vignesh-j-85a1b121a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://app.daily.dev/vignesh_j"><img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white"/></a>
+<a href="mailto:vigneshjayakumar9221@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.duolingo.com/profile/VigneshJ25"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Vignesh025/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+<a href="https://dev.to/vignesh_j"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+<a href="https://x.com/vigneshtwt_"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+<a href="https://hashnode.com/@Vignesh025"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+<a href="https://vigneshj1.substack.com/"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719"/></a>
+<a href="https://medium.com/@vigneshj1"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://oss.fyi/Vignesh025"><img src="https://img.shields.io/badge/OpenSauced-F06837?style=for-the-badge&logo=open-sauced&logoColor=white" /></a>
+<a href="https://peerlist.io/vignesh_j"><img src="https://img.shields.io/badge/Peerlist-0A0209?style=for-the-badge&logo=peerlist&logoColor=white" /></a>
 </div>
 
 
