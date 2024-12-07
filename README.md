@@ -15,7 +15,7 @@ Hi! I'm Vignesh, a tech enthusiast passionate about learning and exploring new t
 <br/>
 <div align="center">
 <a href="https://discordapp.com/users/Neymarjr#7680">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord profile"/>
 </a>
 <a href="https://www.linkedin.com/in/vignesh-j-85a1b121a/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
