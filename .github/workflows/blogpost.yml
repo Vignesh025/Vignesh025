@@ -1,0 +1,35 @@
+name: Blogpost
+
+on:
+  schedule: # Update every 12 hours
+    - cron: "0 23 */2 * *"
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+      - name: Setup Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub username
+          user: Vignesh025
+          template: classic
+          config: |
+            plugins:
+              posts:
+                enabled: yes
+                source: dev.to
+                user: vignesh_j
+                limit: 5
+                descriptions: yes
+                covers: yes
+      - name: Commit Changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A
+          git commit -m "Update metrics" || exit 0
+          git push
