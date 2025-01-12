@@ -62,10 +62,11 @@ Hi! I'm Vignesh, a tech enthusiast passionate about learning and exploring new t
 - [Understanding the Network Layer and IP: Routing, IPv4 vs IPv6, and Key Concepts Explained](https://dev.to/vignesh_j/understanding-the-network-layer-and-ip-routing-ipv4-vs-ipv6-and-key-concepts-explained-4ip0)
 - [In-Depth Guide to the Transport Layer: Understanding TCP and UDP Protocols](https://dev.to/vignesh_j/understanding-the-transport-layer-and-its-protocols-5g90)
 - [Understanding HTTP, Cookies, Email Protocols, and DNS: A Guide to Key Internet Technologies](https://dev.to/vignesh_j/understanding-http-cookies-email-protocols-and-dns-a-guide-to-key-internet-technologies-45a)
-- [Comprehensive Guide to the OSI Model, TCP/IP Model, and Application Layer](https://dev.to/vignesh_j/overview-of-osi-model-tcpip-model-and-application-layer-2mcc)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
+
+<!--START_SECTION:blogpost-->
 
 <h2 align="center">📊 Github Stats</h2> 
     <div align="center">
