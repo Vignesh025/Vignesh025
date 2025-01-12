@@ -67,8 +67,6 @@ Hi! I'm Vignesh, a tech enthusiast passionate about learning and exploring new t
 
 <br/>
 
-<!--START_SECTION:blogpost-->
-
 <h2 align="center">📊 Github Stats</h2> 
     <div align="center">
     <img src="https://github-readme-stats-vignesh025.vercel.app/api?username=Vignesh025&show_icons=true&rank_icon=github&theme=react" alt="Vignesh025's GitHub Stats" height="192px"/></a>
