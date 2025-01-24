@@ -101,9 +101,9 @@ Hi! I'm Vignesh, a tech enthusiast passionate about learning and exploring new t
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18830](https://github.com/is-a-dev/register/pull/18830) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 💪 Opened PR [#18796](https://github.com/is-a-dev/register/pull/18796) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. 🎉 Merged PR [#408](https://github.com/VigneshDevHub/CampX/pull/408) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-4. 💪 Opened PR [#408](https://github.com/VigneshDevHub/CampX/pull/408) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-5. 🗣 Commented on [#407](https://github.com/VigneshDevHub/CampX/pull/407#issuecomment-2477923409) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+1. 💪 Opened PR [#18872](https://github.com/is-a-dev/register/pull/18872) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 💪 Opened PR [#18830](https://github.com/is-a-dev/register/pull/18830) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. 💪 Opened PR [#18796](https://github.com/is-a-dev/register/pull/18796) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 🎉 Merged PR [#408](https://github.com/VigneshDevHub/CampX/pull/408) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+5. 💪 Opened PR [#408](https://github.com/VigneshDevHub/CampX/pull/408) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
 <!--END_SECTION:activity-->
