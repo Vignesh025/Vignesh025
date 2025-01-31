@@ -22,7 +22,7 @@ Hi! I'm Vignesh, a tech enthusiast passionate about learning and exploring new t
 <a href="https://leetcode.com/u/Vignesh025/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
 <a href="https://dev.to/vignesh_j"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 <a href="https://x.com/vigneshtwt_"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
-<a href="https://hashnode.com/@Vignesh025"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+<a href="https://hashnode.com/@vignesh-j"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 <a href="https://vigneshj1.substack.com/"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719"/></a>
 <a href="https://medium.com/@vigneshj1"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://oss.fyi/Vignesh025"><img src="https://img.shields.io/badge/OpenSauced-F06837?style=for-the-badge&logo=open-sauced&logoColor=white" /></a>
