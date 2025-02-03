@@ -12,6 +12,6 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "6"
-                feed_list: "https://dev.to/feed/vignesh_j" 
+                feed_list: "https://dev.to/feed/vignesh-j" 
                 commit_message: "docs: update latest blog posts"
                 committer_username: "blog-buddy"
