@@ -104,8 +104,8 @@ Hi! I'm Vignesh, a tech enthusiast passionate about learning and exploring new t
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18872](https://github.com/is-a-dev/register/pull/18872) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 💪 Opened PR [#18830](https://github.com/is-a-dev/register/pull/18830) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 🗣 Commented on [#409](https://github.com/VigneshDevHub/CampX/issues/409#issuecomment-2745102424) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+2. 🔒 Closed issue [#409](https://github.com/VigneshDevHub/CampX/issues/409) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
 3. 💪 Opened PR [#18796](https://github.com/is-a-dev/register/pull/18796) in [is-a-dev/register](https://github.com/is-a-dev/register)
 4. 🎉 Merged PR [#408](https://github.com/VigneshDevHub/CampX/pull/408) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
 5. 💪 Opened PR [#408](https://github.com/VigneshDevHub/CampX/pull/408) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
