@@ -2,8 +2,40 @@
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FVignesh025%2FVignesh025&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
   <br><br>
+</div>
 
-Hi! I'm Vignesh, a tech enthusiast passionate about learning and exploring new technologies. I enjoy contributing to open-source projects and consistently engage with various projects, whether they are at a beginner or intermediate level. I focus on enhancing these projects by adding new features and improving details.
+## Hi! I'm Vignesh
+
+👋 I build full-stack web applications using the MERN stack and Java full-stack.
+
+✍ I am a technical writer who writes technical content on dev.to and Medium. I have around 5k followers on dev.to.
+
+💻 I contribute to open-source projects and have also maintained an open-source project of my own.
+
+🏆 I have participated in a few open-source programs, both as a contributor and a maintainer:
+
+-> Secured 3rd place as a contributor among 100+ participants in Code Sapiens 2024.
+
+-> Secured 7th place as a Contributor team among 1650+ teams in DevFest AI 2024.
+
+-> Secured 14th place as a project admin among 415+ projects in GirlScript Summer of Code 2024 - Extd.
+
+-> Completed the 4 PR mark as a contributor in Hacktoberfest 2024.
+
+-> Participated as a maintainer in Hacktoberfest 2024.
+
+🏅 I won a blogathon conducted by the Azure Developer Community, where I wrote blogs for seven consecutive days on different technical topics.
+
+On six of those days, I secured a spot in the top five and was declared the winner on Day 5.
+
+My blog on GitHub Actions earned me the winner title.
+
+💡 I am passionate about building impactful software solutions and fostering collaboration in the open-source community.
+
+🤝 I enjoy working in collaborative environments and mentoring contributors in open-source communities.
+
+💬 Feel free to connect with me to discuss web development, open-source contributions, or technical writing. I'm always happy to collaborate and share ideas!
+
 
 ---
 
