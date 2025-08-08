@@ -66,7 +66,7 @@ My blog on GitHub Actions earned me the winner title.
 <h2 align="center">🛠️Languages-Frameworks-Tools</h2>
 <br/>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img  alt="C" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img  alt="C" width="40px" style="padding-right:25px;" src="https://github.com/user-attachments/assets/316781c4-c098-4394-a97e-039203b1f62d" />
 <img  alt="C#" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />	
 <img  alt="HTML" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img  alt="CSS" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
