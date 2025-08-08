@@ -81,6 +81,7 @@ My blog on GitHub Actions earned me the winner title.
 <img  alt="Spring" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 <img  alt="React" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img  alt=".NET Core" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+<img  alt=".NET Core" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
 <img  alt="MaterialUI" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
 <img  alt="VScode" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img  alt="Git" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
