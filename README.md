@@ -93,12 +93,12 @@ My blog on GitHub Actions earned me the winner title.
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How GitHub Copilot Helped Me Roast Its Own Users](https://dev.to/vignesh-j/how-github-copilot-helped-me-roast-its-own-users-4540)
 - [SQL vs NoSQL: Choosing the Right Database Before It Chooses Your Fate](https://dev.to/vignesh-j/sql-vs-nosql-choosing-the-right-database-before-it-chooses-your-fate-4j1e)
 - [Retro’ing and Debugging 2024 - A year of learning and fun](https://dev.to/vignesh-j/retroing-and-debugging-2024-a-year-of-learning-and-fun-4nlg)
 - [Understanding the Data Link and Physical Layers: The Final Step in Mastering OSI Model and Computer Networking](https://dev.to/vignesh-j/understanding-the-data-link-and-physical-layers-the-final-step-in-mastering-osi-model-and-computer-6g)
 - [Understanding the Network Layer and IP: Routing, IPv4 vs IPv6, and Key Concepts Explained](https://dev.to/vignesh-j/understanding-the-network-layer-and-ip-routing-ipv4-vs-ipv6-and-key-concepts-explained-4ip0)
 - [In-Depth Guide to the Transport Layer: Understanding TCP and UDP Protocols](https://dev.to/vignesh-j/understanding-the-transport-layer-and-its-protocols-5g90)
-- [Understanding HTTP, Cookies, Email Protocols, and DNS: A Guide to Key Internet Technologies](https://dev.to/vignesh-j/understanding-http-cookies-email-protocols-and-dns-a-guide-to-key-internet-technologies-45a)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
