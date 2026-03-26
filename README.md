@@ -6,7 +6,7 @@
 
 ## Hi! I'm Vignesh
 
-👋 I build full-stack web applications using the MERN stack and Java full-stack.
+👋 I build full-stack web applications using the MERN stack and .NET full-stack.
 
 ✍ I am a technical writer who writes technical content on dev.to and Medium. I have around 5k followers on dev.to.
 
