@@ -89,6 +89,10 @@ My blog on GitHub Actions earned me the winner title.
 <img  alt="Git" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
 <img  alt="Github" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img  alt="Linux" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img  alt="PowerApps" width="40px" style="padding-right:25px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Powerapps-logo.svg" />
+<img  alt="PowerApps" width="40px" style="padding-right:25px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg" />
+<img  alt="PowerApps" width="40px" style="padding-right:25px;" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
+
 </div>
 <br/>
 
