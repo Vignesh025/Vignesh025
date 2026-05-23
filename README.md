@@ -143,8 +143,8 @@ My blog on GitHub Actions earned me the winner title.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#411](https://github.com/VigneshDevHub/CampX/issues/411#issuecomment-3216712337) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
-2. 🔒 Closed issue [#411](https://github.com/VigneshDevHub/CampX/issues/411) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
+1. ❌ Merged PR [#1](undefined) in [Vignesh025/StockX-Backend](https://github.com/Vignesh025/StockX-Backend)
+2. 💪 Opened PR [#1](undefined) in [Vignesh025/StockX-Backend](https://github.com/Vignesh025/StockX-Backend)
 3. 💪 Opened PR [#18796](https://github.com/is-a-dev/register/pull/18796) in [is-a-dev/register](https://github.com/is-a-dev/register)
 4. 🎉 Merged PR [#408](https://github.com/VigneshDevHub/CampX/pull/408) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
 5. 💪 Opened PR [#408](https://github.com/VigneshDevHub/CampX/pull/408) in [VigneshDevHub/CampX](https://github.com/VigneshDevHub/CampX)
